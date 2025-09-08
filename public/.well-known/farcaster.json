@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Fundamenta Digest",
+    "subtitle": "Built with Zara",
+    "description": "Fundamenta Digest is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://3681648fdfb545288ef1bb237894d7ba-i2p5.vercel.app",
+    "splashImageUrl": "https://3681648fdfb545288ef1bb237894d7ba-i2p5.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://3681648fdfb545288ef1bb237894d7ba-i2p5.vercel.app/image.png",
+    "tagline": "Fundamenta Digest",
+    "screenshotUrls": [
+      "https://3681648fdfb545288ef1bb237894d7ba-i2p5.vercel.app/screenshot.png",
+      "https://3681648fdfb545288ef1bb237894d7ba-i2p5.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://3681648fdfb545288ef1bb237894d7ba-i2p5.vercel.app/api/webhook"
+  }
+}
